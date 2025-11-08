@@ -29,6 +29,6 @@
 ## ⚙️ Kurulum  
 
 ```bash
-git clone https://github.com/fearproject/emoji-clon.git
+git clone https://git@github.com:fearr0/V14-EMOJI-CLONE-DISCORD-BOT.git
 cd emoji-clon
 npm install
