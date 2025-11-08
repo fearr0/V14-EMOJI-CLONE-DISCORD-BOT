@@ -25,10 +25,3 @@
 | **node-fetch** | ^3.3.2 |
 
 ---
-
-## ⚙️ Kurulum  
-
-```bash
-git clone https://git@github.com:fearr0/V14-EMOJI-CLONE-DISCORD-BOT.git
-cd emoji-clon
-npm install
